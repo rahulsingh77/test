@@ -1,2 +1,2 @@
 # test
-test repo
+test repo pract_1 github
